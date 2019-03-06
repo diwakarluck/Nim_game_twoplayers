@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"sqlite:///blog.db",
+    "fb_url" : "https://www.facebook.com",
+    "tw_url": "https://twitter.com",
+    "git_url": "https://github.com/diwakarluck",
+    "python_online": "https://www.python.org",
+    "blog_name": "Python Online",
+    "gmail_user": "diwakarkp90@gmail.com",
+    "gmail_pass": "komdiw9040",
+    "jack_daniel": "https://en.wikipedia.org/wiki/Jack_Daniel",
+    "blog_name": "Python Blog"
+
+  }
+
+
+}
