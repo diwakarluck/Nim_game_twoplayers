@@ -5,9 +5,13 @@ from nim_human_code import *
 from nim_computer_simple import *
 from nim_computer_complex import *
 from player_selection_n_toss import *
+from Nim_game_twoplayers.player_selection_n_toss import toss
 import random
 
 #game controller
+from Nim_game_twoplayers.player_selection_n_toss import toss
+
+
 def game_controller(match_sticks, player,ms):
 
     print('Match Sticks ->', ms)

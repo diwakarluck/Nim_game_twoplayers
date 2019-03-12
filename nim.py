@@ -1,3 +1,31 @@
+#generator:
+
+# def func(n):
+#     for i in range(0,n):
+#         yield i
+#
+# o = func(5)
+# for i in range(0,6):
+#     print(next(o))
+
+# import random
+# def fun():
+#     return(random.randint(1,10))
+#
+#
+#
+# name = 'diwakar'
+# r = fun()
+# print(name,r)
+# name = 'Narasimha'
+# f = fun()
+# print(name,f)
+
+# l = [1,2,None]
+# print(l)
+
+
+
 # Assignment_No. 1.1
 
 # Computer Vs Player Game.....
@@ -160,7 +188,7 @@
 #     pass
 
 
-
+#
 #
 # import random
 #
@@ -296,6 +324,23 @@
 
 
 
+# E = 0
+# C = 1
+# S = 2
+#
+# l = [C,S,E]
+# o = [C,E,S]
+#
+#
+# def move(l):
+#     for i in range(len(l)):
+#         pass
+#
+#
+#
+#
+# move(l)
+#
 
 
 
